@@ -1,0 +1,10 @@
+.profile-image {
+	max-width: 30px;
+	max-height: 30px;
+	float: left;
+	margin-top: 5px;
+}
+
+#navbarDropdown {
+	float: right;
+}
